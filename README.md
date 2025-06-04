@@ -1,0 +1,2 @@
+# esp_to_onenet
+stm32zet6基于hal库使用esp01s将dht11采集的数据上传至onenet平台
