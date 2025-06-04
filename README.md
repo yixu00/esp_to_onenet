@@ -1,2 +1,2 @@
 # esp_to_onenet
-stm32zet6基于hal使用esp01s将dht11采集的数据上传至onenet平台
+stm32zet6基于hal使用esp01s将dht11采集的温湿度数据上传至onenet平台
